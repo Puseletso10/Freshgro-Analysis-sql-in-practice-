@@ -24,30 +24,31 @@ To apply and demonstrate SQL functions that support FreshGro in:
 
 ### **2. Text Cleaning and Formatting**
 
-SQL functions: - `LOWER()`, `UPPER()` - `LTRIM()`, `RTRIM()` -
-`REPLACE()` - `CONCAT()` - `SUBSTRING()`
+SQL functions:  `LOWER()`, `UPPER()` , `LTRIM()`, `RTRIM()`,
+`REPLACE()` , `CONCAT()` , `SUBSTRING()`
 
 ### **3. Date Extraction and Conversion**
 
-Functions like: - `DATE()` - `YEAR()`, `MONTH()`, `DAY()` -
-`STRFTIME()` - `CURRENT_DATE`
+Functions like: `DATE()` , `YEAR()`, `MONTH()`, `DAY()`,
+`STRFTIME()` , `CURRENT_DATE`
 
 ### **4. Conditional Logic for Grouping & Classification**
 
-Functions: - `CASE WHEN` - `IFNULL()`, `COALESCE()` - Boolean operators
+Functions:  `CASE WHEN` , `IFNULL()`, `COALESCE()` , Boolean operators
 (`AND`, `OR`, `NOT`)
 
 ### **5. Handling NULLs & Missing Values**
 
--   `COALESCE()`\
--   `NULLIF()`\
+-   `COALESCE()`
+-   `NULLIF()`
 -   `IS NULL`, `IS NOT NULL`
 
-### **6. Flexible Querying and Insights**
+### **6. Analysis**
 
-Building logic-driven queries for: - Customer segmentation\
-- Order trends\
-- Product analysis
+- Total Revenue 1537.91
+- Average Revenue 15.22
+- Average Delivery Rating 2.8
+- Highest amount of revenue of 312.17 was generated on Wednesday with 20 orders made that day and less orders were made on Saturday with total revenue of 165.89
 
 ## **🛠️ Tools & Technologies**
 
@@ -55,12 +56,6 @@ Building logic-driven queries for: - Customer segmentation\
 -   Jupyter Notebook
 -   Python
 
-## **📈 Outcomes**
-
-FreshGro gains: - Cleaner and more consistent data\
-- Better customer classification\
-- Improved handling of missing data\
-- Stronger analytical queries
 
 ## **👤 Author**
 
