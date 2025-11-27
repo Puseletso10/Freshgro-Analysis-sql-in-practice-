@@ -43,12 +43,12 @@ Functions:  `CASE WHEN` , `IFNULL()`, `COALESCE()` , Boolean operators
 -   `NULLIF()`
 -   `IS NULL`, `IS NOT NULL`
 
-### **6. Analysis**
+### **6. Analysis Breakdown**
 
-- Total Revenue 1537.91
-- Average Revenue 15.22
-- Average Delivery Rating 2.8
-- Highest amount of revenue of 312.17 was generated on Wednesday with 20 orders made that day and less orders were made on Saturday with total revenue of 165.89
+- **Total Revenue:** 1537.91
+- **Average Revenue:** 15.22
+- **Average Delivery Rating:** 2.8
+- **Highest amount of revenue of 312.17 was generated on Wednesday with 20 orders made that day and less orders were made on Saturday with total revenue of 165.89.**
 
 ## **🛠️ Tools & Technologies**
 
