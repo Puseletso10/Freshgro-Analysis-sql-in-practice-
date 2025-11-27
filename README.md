@@ -8,11 +8,11 @@ This notebook introduces and demonstrates essential **SQL functions** by using O
 
 To apply and demonstrate SQL functions that support FreshGro in:
 
--   🧹 Cleaning & formatting messy text data
--   📅 Extracting insights from date fields
--   🧠 Classifying & grouping customers using conditional logic
--   🚫 Handling NULLs and missing values effectively
--   🔄 Creating flexible, easy to understand queries
+-   🧹 Cleaning & formatting messy text data.
+-   📅 Extracting insights from date fields.
+-   🧠 Classifying & grouping customers using conditional logic.
+-   🚫 Handling NULLs and missing values effectively.
+-   🔄 Creating flexible, easy to understand queries.
 
 ## **📂 Notebook Contents**
 
